@@ -1,1 +1,2 @@
 This is Scorpion, who's learning Git up step by step.
+Edited from GitHub directly.
